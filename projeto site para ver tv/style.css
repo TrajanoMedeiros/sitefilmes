@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+.channel-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+}
+.channel {
+    margin: 10px;
+}
+.channel img {
+    width: 10px;
+    height: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+#player-container {
+    margin-top: 30px;
+    display: none; /* Inicialmente escondido */
+}
+video {
+    width: 80%;
+    height: auto;
+}

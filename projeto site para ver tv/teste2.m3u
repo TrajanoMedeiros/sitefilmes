@@ -1,0 +1,264 @@
+#EXTM3U
+
+
+#EXTINF:0  tvg-logo="https://imgur.com/hgSSNfk.png" group-title="NOTICIAS",EURONEWS
+https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="Infantil", Retr� Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/russiatoday.jpg" group-title="Jornalismo", RT en espa�ol 
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1,A&E HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/665
+
+#EXTINF:-1,AMC HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/670
+
+#EXTINF:-1,Animal Planet HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2601
+
+#EXTINF:-1,Arte 1 HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2606
+
+#EXTINF:-1,AXN HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/675
+
+#EXTINF:-1,Band News HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/468
+
+#EXTINF:-1,Band Sports HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/234
+
+#EXTINF:-1,Canal Sony HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/701
+
+#EXTINF:-1,Cinemax HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/681
+
+#EXTINF:-1,Combate HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/239
+
+#EXTINF:-1,Comedy Central HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/686
+
+#EXTINF:-1,Curta! HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2611
+
+#EXTINF:-1,CNN Brasil FHD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/118884
+
+#EXTINF:-1,Disc. Channel HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2576
+
+#EXTINF:-1,Disc. Home &  Health HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2571
+
+#EXTINF:-1,Disc. Science HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2581
+
+#EXTINF:-1,Disc. Theater HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2586
+
+#EXTINF:-1,Disc. Turbo HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2591
+
+#EXTINF:-1,Disc. World HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2596
+
+#EXTINF:-1,ESPN HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/209
+
+#EXTINF:-1,ESPN2 HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/214
+
+#EXTINF:-1,ESPN3 HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/219
+
+#EXTINF:-1,ESPN4 HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/224
+
+#EXTINF:-1,ESPN Extra� HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/229
+
+#EXTINF:-1,FOX Sports 2 HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/118751
+
+#EXTINF:-1,Estadio TNT Sports 01�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/18593
+
+#EXTINF:-1,FX HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/593
+
+#EXTINF:-1,Globo SP HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/289884
+
+#EXTINF:-1,Globo RJ HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2375
+
+#EXTINF:-1,HBO + HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/18765
+
+#EXTINF:-1,HBO HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/18753
+
+#EXTINF:-1,HBO 2 HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/18757
+
+#EXTINF:-1,HBO FAMILY HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/18761
+
+#EXTINF:-1,HBO MUNDI HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/18773
+
+#EXTINF:-1,HBO POP HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/18781
+
+#EXTINF:-1,HBO SIGNATURE HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/18769
+
+#EXTINF:-1,HBO XTREME HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/18777
+
+#EXTINF:-1,HGTV HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2626
+
+#EXTINF:-1,History HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2616
+
+#EXTINF:-1,ID HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2631
+
+#EXTINF:-1,Megapix HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/691
+
+#EXTINF:-1,HBO Max 1 FHD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/121597
+
+#EXTINF:-1,National Geographic HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2636
+
+#EXTINF:-1,Paramount + 1  HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/250561
+
+#EXTINF:-1,Paramount Network HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/696
+
+#EXTINF:-1,Premiere Clubes HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/493
+
+#EXTINF:-1,Premiere 2 HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/498
+
+#EXTINF:-1,Record News HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/487
+
+#EXTINF:-1,RecordTV SP HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/244076
+
+#EXTINF:-1,Rede Brasil HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/46992
+
+#EXTINF:-1,SBT SP HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/244166
+
+#EXTINF:-1,Space HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/706
+
+#EXTINF:-1,SPORTV HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/548
+
+#EXTINF:-1,SporTV 2 HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/553
+
+#EXTINF:-1,SporTV 3 HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/558
+
+#EXTINF:-1,Studio Universal HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/712
+
+#EXTINF:-1,SYFY HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/717
+
+#EXTINF:-1,TBS HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/722
+
+#EXTINF:-1,Telecine Action HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/614
+
+#EXTINF:-1,Telecine Cult HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/619
+
+#EXTINF:-1,Telecine Fun HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/624
+
+#EXTINF:-1,Telecine Pipoca HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/629
+
+#EXTINF:-1,Telecine Premium HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/634
+
+#EXTINF:-1,Telecine Touch HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/588
+
+#EXTINF:-1,TLC HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/727
+
+#EXTINF:-1,TNT HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/732
+
+#EXTINF:-1,TNT Series HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/737
+
+#EXTINF:-1,Warner Channel HD�
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/748
+
+#EXTINF:-1 tvg-id="euronw.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png"group-title="INTERNACIONAL", Euronews PT
+https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62107
+
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62105
+
+#EXTINF:-1 tvg-id="SIC.pt" tvg-logo="https://i.imgur.com/SPMqiDG.png" group-title="INTERNACIONAL",SIC 
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62068
+
+#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-logo="https://i.imgur.com/j6447jk.png" group-title="INTERNACIONAL",SIC Noticias 
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62066
+
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="portochd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Porto-Canal.png",Porto Canal
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62050
+
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://i.imgur.com/w7GV86i.png" group-title="INTERNACIONAL",RTP 1
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62052
+
+#EXTINF:-1 tvg-id="RTP2.pt" tvg-logo="https://i.imgur.com/T6WUqdn.png" group-title="INTERNACIONAL" ,RTP 2 
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62053
+
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://i.imgur.com/ohXJmiR.png" group-title="INTERNACIONAL" ,RTP 3 
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="RTPInternacional.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Internacional.png",RTP Internacional
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62055
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
